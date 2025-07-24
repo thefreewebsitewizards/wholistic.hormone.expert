@@ -218,23 +218,7 @@ a, button, .hamburger {
     color: #666;
 }
 
-.location {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-top: 1rem;
-    color: #666;
-    font-size: 0.9rem;
-    justify-content: center;
-}
 
-.location i {
-    font-size: 0.9rem;
-}
-
-.location span {
-    font-weight: 500;
-}
 
 .portfolio-btn {
     margin: 2rem 0;
@@ -1589,20 +1573,7 @@ a, button, .hamburger {
         font-size: 0.8rem;
     }
     
-    .location {
-        margin-top: 0.8rem;
-        font-size: 0.8rem;
-        gap: 0.4rem;
-    }
-    
-    .location i {
-        font-size: 0.8rem;
-    }
-    
-    .location span {
-        font-weight: 500;
-        letter-spacing: 0.3px;
-    }
+
     
     .hero-tagline {
         font-size: 0.9rem;
@@ -1904,20 +1875,7 @@ a, button, .hamburger {
         font-size: 0.7rem;
     }
     
-    .location {
-        margin-top: 0.6rem;
-        font-size: 0.7rem;
-        gap: 0.3rem;
-    }
-    
-    .location i {
-        font-size: 0.7rem;
-    }
-    
-    .location span {
-        font-weight: 500;
-        letter-spacing: 0.2px;
-    }
+
     
     .hero-tagline {
         font-size: 0.8rem;
